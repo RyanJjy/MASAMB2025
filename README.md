@@ -12,9 +12,7 @@
 - 🎤 **Seminar abstracts & titles**
     -  [Day 1, 8th, Monday](Masamb2025-Seminars-D1.pdf)
     -  [Day 2, 9th, Tuesday](Masamb2025-Seminars-D2.pdf)
-- 🧾 **Poster abstracts & titles** (to be up)
-    -  Day 1, 8th, Monday
-    -  Day 2, 9th, Tuesday
+- 🧾 **[Poster abstracts & titles](Masamb2025-Posters.pdf)**
 ---
 
 ## Day 1 — Monday, 8 September
