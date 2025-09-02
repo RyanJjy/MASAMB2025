@@ -18,6 +18,7 @@
 ## Day 1 — Monday, 8 September
 
 **09:00–10:00** — Arrival / Coffee  
+
 **10:00–10:10** — Welcome talk
 
 ### Session 1 — Population Genomics (Chair: Ziheng Yang)
