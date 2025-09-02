@@ -1,16 +1,20 @@
 # MASAMB 2025 — Mathematical & Statistical Aspects of Molecular Biology
 
 **Dates:** Monday–Tuesday, 8–9 September 2025   
-**Schedule:** See detailed timetable below (subject to minor updates)
+
 
 > For questions or corrections on the current timetable for MASAMB 2025., please email **jiayi.ji.20@ucl.ac.uk** or **masamb2025@nhm.ac.uk**.
 
 ---
 
 ## Quick Links
-- 🎤 **[Seminar abstracts / titles](Masamb2025-Seminars.pdf)**
-- 🧾 **[Poster abstracts / titles]** (to be up)
-
+- 📅 **[Conference schedule](Masamb2025-Timetable.pdf)**
+- 🎤 **Seminar abstracts & titles**
+    -  [Day 1, 8th, Monday](Masamb2025-Seminars-D1.pdf)
+    -  [Day 2, 9th, Tuesday](Masamb2025-Seminars-D2.pdf)
+- 🧾 **Poster abstracts & titles** (to be up)
+    -  Day 1, 8th, Monday
+    -  Day 2, 9th, Tuesday
 ---
 
 ## Day 1 — Monday, 8 September
