@@ -52,7 +52,7 @@
 |---|---|---|
 | 15:30–16:00 | Bastien Boussau | Characterization of selective pressures acting on protein sites with Deep Learning |
 | 16:00–16:30 | Luc Blassel | TBA |
-| 16:30–17:00 | Pirita Paajanen | TBA |
+| 16:30–17:00 | Pirita Paajanen | Re-analysis of RNASeq Data suggests alternative explanations to long distance transport of mRNA: ∀ grafting RNASeq experiment ∃ plenty of false positives |
 | 17:00–17:05 | Giorgio Bianchini | AliFilter: a Machine Learning Approach to Alignment Filtering |
 | 17:05–17:10 | Antonio Pacheco | Deep learning: Balancing, linkage and effects of selection (DEEPBLUES) |
 | 17:10–17:15 | Philipp Schiffer | Hierarchical Patterns of Soil Biodiversity in Extreme Environments: Insights Across Biological Scales |
