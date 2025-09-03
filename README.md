@@ -8,7 +8,7 @@
 ---
 
 ## Quick Links
-- 📅 **[Conference schedule](Masamb2025-Timetable.pdf)**
+- 📅 **[Conference schedule](Masamb2025-Timetable.pdf)** (subject to minor changes)
 - 🎤 **Seminar abstracts & titles**
     -  [Day 1, 8th, Monday](Masamb2025-Seminars-D1.pdf)
     -  [Day 2, 9th, Tuesday](Masamb2025-Seminars-D2.pdf)
