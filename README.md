@@ -37,10 +37,10 @@
 | Time | Speaker | Title |
 |---|---|---|
 | 13:30–14:00 | Diogo da Silva Ribeiro | Inferring gene flow from phylogenies with too many genomes |
-| 14:00–14:30 | Yuttapong Thawornwattana | TBA |
+| 14:00–14:30 | Yuttapong Thawornwattana | Inferring gene flow between cryptic sibling species of *Anopheles* mosquitoes |
 | 14:30–14:35 | Menno de Jong | Concatenation in the anomaly zone |
 | 14:35–14:40 | Jiayi Ji | The Impact of Sequencing and Genotyping Errors on Bayesian Analysis of Genomic Data under the Multispecies Coalescent Model |
-| 14:40–14:45 | Wenjie Zhu | Polymorphism-Aware Phylogenetic Models (PoMo) for Species Delimitation |
+| 14:40–14:45 | Wenjie Zhu | Polymorphism-Aware Phylogenetic Models (PoMo) for Species Delimitation **(cancelled)**|
 
 **14:45–15:15** — Coffee break
 
@@ -72,7 +72,7 @@
 | 10:10–10:40 | Claudia Weber | Unsupervised learning as a tool to retrieve genomes from undersampled taxa: Fast and slow evolution in myxozoans |
 | 10:40–11:10 | Lia Obinu | Building a scalable bioinformatics strategy for sequencing historical fungal collections |
 | 11:10–11:40 | Jeff Streicher | Quantifying structural variants in chromosomes using landmark-based disparity |
-| 11:40–11:45 | Artemis Kotoula | TBA |
+| 11:40–11:45 | Artemis Kotoula | TBA **(cancelled)**|
 | 11:45–11:50 | Olivier Anoufa | Investigating contamination events in SARS-CoV-2 genome data |
 | 11:50–11:55 | Magdalena Strauss | Advancing the classification of variants of uncertain significance: analysis frameworks for precision genome editing at the single cell level |
 | 11:55–12:00 | Miles Rowbottom | VI-guided NSGA-II: a novel Evolutionary Multi-Objective Optimisation Algorithm for Feature Selection for Single-cell Classification |
