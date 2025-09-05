@@ -91,7 +91,7 @@
 
 **14:40–15:10** — Coffee break
 
-### Session 3 — Cancer Evolution & Genomics, and Others (Chair: Paul Kirk)
+### Session 3 — Medical Genomics (Chair: Paul Kirk)
 
 | Time | Speaker | Title |
 |---|---|---|
